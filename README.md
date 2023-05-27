@@ -1,4 +1,4 @@
-# Everything Download Manager
+# Everything Download Manager - [Under Development]
 
 Everything Download Manager is a powerful and versatile download manager that enables you to easily and efficiently download various files from the web. Whether you need to download documents, images, videos, music, or any other file type, this comprehensive tool has you covered.
 
